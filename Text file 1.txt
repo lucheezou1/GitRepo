@@ -3,3 +3,5 @@ edited text file
 second edit here
 
 I love eden!
+
+eden is life!
